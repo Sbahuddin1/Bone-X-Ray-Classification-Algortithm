@@ -46,7 +46,7 @@ pip install tensorflow numpy matplotlib pandas scikit-learn opencv-python
 - Accuracy, loss curves, and confusion matrices are plotted for better understanding.
 
 ### Sample X-ray Image
-!(files/image_png.png)
+![sample](https://github.com/Sbahuddin1/Bone-X-Ray-Classification-Algortithm/blob/master/files/image_png.png)
 
 ### Processed and Classified Image
 *(Attach an image of the X-ray scan after classification here)*
