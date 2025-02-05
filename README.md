@@ -30,6 +30,10 @@ pip install tensorflow numpy matplotlib pandas scikit-learn opencv-python
    ```
 5. Run the notebook to train and evaluate the model.
 
+
+### Sample X-ray Image
+![sample](https://github.com/Sbahuddin1/Bone-X-Ray-Classification-Algortithm/blob/master/files/image_png.png)   
+
 ## Model Implementation
 
 - The model is implemented in `bone-xray.ipynb` using TensorFlow/Keras.
@@ -40,16 +44,16 @@ pip install tensorflow numpy matplotlib pandas scikit-learn opencv-python
 - Data preprocessing, augmentation, model training, and evaluation steps are included.
 - Performance metrics and visualizations are provided.
 
+### Preprocessing of Images
+![output image](https://github.com/Sbahuddin1/Bone-X-Ray-Classification-Algortithm/blob/master/files/preprocess.png)
+
 ## Results
 
 - After training, the model performance is evaluated on the test dataset.
 - Accuracy, loss curves, and confusion matrices are plotted for better understanding.
 
-### Sample X-ray Image
-![sample](https://github.com/Sbahuddin1/Bone-X-Ray-Classification-Algortithm/blob/master/files/image_png.png)
-
-### Processed and Classified Image
-*(Attach an image of the X-ray scan after classification here)*
+### Classified Images
+![output image](https://github.com/Sbahuddin1/Bone-X-Ray-Classification-Algortithm/blob/master/files/output.png)
 
 ## Contributions
 
