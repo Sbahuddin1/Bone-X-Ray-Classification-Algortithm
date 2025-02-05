@@ -46,7 +46,7 @@ pip install tensorflow numpy matplotlib pandas scikit-learn opencv-python
 - Accuracy, loss curves, and confusion matrices are plotted for better understanding.
 
 ### Sample X-ray Image
-*(Attach an image of a raw X-ray scan here)*
+!(files/image_png.png)
 
 ### Processed and Classified Image
 *(Attach an image of the X-ray scan after classification here)*
